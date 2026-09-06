@@ -16,14 +16,14 @@ Developing Nexus helped me strengthen my understanding of React state flow, mana
 
 ## ✨ Key Features
 
-✅ Glassmorphic Dark-Themed UI with Micro-interactions ✨
-✅ Interactive Counter App with Increment, Decrement, and Reset Controls 🔢
-✅ Counter Minimum Limit Safeguard with Warning Indicators ⚠️
-✅ Random Number Generator (1-100) with Reset Functionality 🎲
-✅ Conditional Error Message Display for Unstarted States 💬
-✅ Sticky Header Navigation Bar with Animated Nexus logo ♾️
-✅ Clean Footer Section with Dynamic Copyright Year Updates 📅
-✅ Fully Responsive Layout across Desktop, Tablet, and Mobile Views 📱
+* ✅ Glassmorphic Dark-Themed UI with Micro-interactions ✨
+* ✅ Interactive Counter App with Increment, Decrement, and Reset Controls 🔢
+* ✅ Counter Minimum Limit Safeguard with Warning Indicators ⚠️
+* ✅ Random Number Generator (1-100) with Reset Functionality 🎲
+* ✅ Conditional Error Message Display for Unstarted States 💬
+* ✅ Sticky Header Navigation Bar with Animated Nexus logo ♾️
+* ✅ Clean Footer Section with Dynamic Copyright Year Updates 📅
+* ✅ Fully Responsive Layout across Desktop, Tablet, and Mobile Views 📱
 
 ---
 
@@ -65,10 +65,10 @@ The main objective of this project is to practice and improve my React state man
 Feedback and suggestions are always welcome! 😊
 If you have any ideas for improvements or new features, feel free to:
 
-⭐ Star this repository
-🐛 Report issues
-🍴 Fork the project
-📩 Share your suggestions and feedback
+* ⭐ Star this repository
+* 🐛 Report issues
+* 🍴 Fork the project
+* 📩 Share your suggestions and feedback
 
 ---
 

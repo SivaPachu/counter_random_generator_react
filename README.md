@@ -21,7 +21,7 @@ Developing Nexus helped me strengthen my understanding of React state flow, mana
 ✅ Counter Minimum Limit Safeguard with Warning Indicators ⚠️
 ✅ Random Number Generator (1-100) with Reset Functionality 🎲
 ✅ Conditional Error Message Display for Unstarted States 💬
-✅ Sticky Header Navigation Bar with Animated Pulse Logo ⚡
+✅ Sticky Header Navigation Bar with Animated Nexus logo ♾️
 ✅ Clean Footer Section with Dynamic Copyright Year Updates 📅
 ✅ Fully Responsive Layout across Desktop, Tablet, and Mobile Views 📱
 
